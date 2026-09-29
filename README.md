@@ -26,14 +26,20 @@ It's built to serve everyone from individual freelancers organizing their own fi
 
 ## 🖼️ Screenshots
 
-> _Screenshots coming soon._
-
-<!--
-Add product screenshots here, for example:
-
-![QllmDocs Dashboard](./assets/dashboard.png)
-![QllmDocs Search](./assets/search.png)
--->
+<table>
+  <tr>
+    <td width="25%"><img src="./assets/qllmdocs-image-1.png" alt="QllmDocs Home" /><br/><sub><b>Home</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-2.png" alt="QllmDocs Dashboard" /><br/><sub><b>Dashboard</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-3.png" alt="QllmDocs Documents" /><br/><sub><b>Documents</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-4.png" alt="QllmDocs Add Documents" /><br/><sub><b>Add Documents</b></sub></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="./assets/qllmdocs-image-5.png" alt="QllmDocs Subscription" /><br/><sub><b>Subscription</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-6.png" alt="QllmDocs Settings" /><br/><sub><b>Settings</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-7.png" alt="QllmDocs Trash" /><br/><sub><b>Trash</b></sub></td>
+    <td width="25%"><img src="./assets/qllmdocs-image-8.png" alt="QllmDocs Team" /><br/><sub><b>Team</b></sub></td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
